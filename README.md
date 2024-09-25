@@ -4,6 +4,7 @@
 experienced in web dev; interested in ML/AI, specifically neuroevolution
 
 my favorite dog on Instagram: https://instagram.com/unibowie
+
 <img width="149" alt="image" src="https://github.com/user-attachments/assets/ff1748db-46ae-43c9-b89f-fb421ec38e8e">
 
 
