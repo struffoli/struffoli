@@ -1,12 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=struffoli&color=ffabb7&style=flat-square)
 <sup>since 9/25/2024</sup>
 
-experienced in web dev
-interested in ML/AI, specifically neuroevolution
+experienced in web dev; interested in ML/AI, specifically neuroevolution
 
-love unibowie 😄
+my favorite dog on Instagram: https://instagram.com/unibowie
+<img width="149" alt="image" src="https://github.com/user-attachments/assets/ff1748db-46ae-43c9-b89f-fb421ec38e8e">
 
-![image](https://github.com/user-attachments/assets/9f835daf-66f7-492d-86d6-27c3c64e12f8)
 
 
 <!--
