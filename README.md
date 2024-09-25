@@ -1,6 +1,13 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=struffoli&color=ffabb7&style=flat-square)
+<sup>since 9/25/2024</sup>
 
-I love coding
+experienced in web dev
+interested in ML/AI, specifically neuroevolution
+
+love unibowie 😄
+
+![image](https://github.com/user-attachments/assets/9f835daf-66f7-492d-86d6-27c3c64e12f8)
+
 
 <!--
 **struffoli/struffoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
