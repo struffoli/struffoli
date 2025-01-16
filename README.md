@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=struffoli&color=ffabb7&style=flat-square)
 <sup>since 9/25/2024</sup>
 
-experienced in web dev; interested in ML/AI, specifically neuroevolution
+experienced in web dev; interested in ML/AI
 
 my favorite dog on Instagram: https://instagram.com/unibowie
 
