@@ -1,9 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=struffoli&color=ffabb7&style=flat-square)
 <sup>since 9/25/2024</sup>
 
-experienced in web dev; interested in ML/AI
-
-my favorite dog on Instagram: https://instagram.com/unibowie
 
 <img width="149" alt="image" src="https://github.com/user-attachments/assets/ff1748db-46ae-43c9-b89f-fb421ec38e8e">
 
